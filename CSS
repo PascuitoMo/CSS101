@@ -1,0 +1,25 @@
+body{
+background-color: #b0b0b0;	
+	
+}
+h2{color: red;
+text-align: center;
+	
+}
+h1{color: blue;
+	text-align: center;
+	border: solid; 4px blue;
+	line-height: 300%;
+
+	
+}
+
+
+img{width: auto;
+	height: 500px;
+}
+
+p{
+	font-size: 22px;
+	
+}
